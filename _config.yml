@@ -1,0 +1,14 @@
+layout_spectrum: 0.7012071055360138
+typography_spectrum: 0.9315907396376133
+color:
+  brandStrength: 0.5729202129878104
+  lightness: 0.7603826967533678
+  saturation: 0.7364683256018907
+  rhythmicContrast: 0.6813250815030187
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: extended intelligence
