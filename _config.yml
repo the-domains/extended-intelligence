@@ -6,9 +6,9 @@ color:
   saturation: 0.7364683256018907
   rhythmicContrast: 0.6813250815030187
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
 name: extended intelligence
